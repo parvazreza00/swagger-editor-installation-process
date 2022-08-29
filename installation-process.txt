@@ -1,9 +1,9 @@
 1. git clone link https://github.com/swagger-api/swagger-editor.git folder-name
 2. cd foldername
-2. write (start .)
-3. open local server and browser write(localhost/flodername/) ->saw the swagger editor open in brower from your loacal server.
-4. in cmd write -> npm install -g swagger
-5. then -> npm install --save swagger-ui
-6. then -> npm install --save swagger-ui-dist
-7. go into rootfoler ->go node_modules->find out swagger-ui-dist->copy this folder and paste into rootfolder
+3. write (start .)
+4. open local server and browser write(localhost/flodername/) ->saw the swagger editor open in brower from your loacal server.
+5. in cmd write -> npm install -g swagger
+6. then -> npm install --save swagger-ui
+7. then -> npm install --save swagger-ui-dist
+8. go into rootfoler ->go node_modules->find out swagger-ui-dist->copy this folder and paste into rootfolder
  
